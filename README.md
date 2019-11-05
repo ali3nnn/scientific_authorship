@@ -9,4 +9,4 @@ Data files
 - `vocabulary_vectors.pkl`: contains a precomputed list of embedding vectors for words in the vocabulary, as a serialized python dictionary with words as keys and embedding vectors as values. The embeddings are word2vec embeddings pretrained on Google News.
 
 ## References
-Full paper describing methodology and results can be found here: https://www.aclweb.org/anthology/D19-1236/
+Full paper describing methodology and results can be found here: [The Myth of Double-Blind Review Revisited: ACL vs. EMNLP, Cornelia Caragea, Ana Uban, Liviu P. Dinu](https://www.aclweb.org/anthology/D19-1236/)
